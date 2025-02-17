@@ -1,0 +1,11 @@
+.experience {
+    padding: 20px;
+    border-radius: 10px;
+    background: white;
+  }
+  
+  .experience h2 {
+    color: #222;
+    border-bottom: 3px solid #ffbb00;
+  }
+  
