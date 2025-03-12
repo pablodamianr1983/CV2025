@@ -6,9 +6,9 @@ const Header = () => {
       <img src="/foto.jpg" alt="Foto de perfil" className="profile-pic" />
       <div className="header-info">
         <h1>PABLO DAMIÁN ROLDÁN</h1>
-        <p className="job-title">Técnico Universitario en Desarrollo de Software</p>
+        <p className="job-title">Técnico Universitario en Desarrollo de Software y Soporte IT</p>
         <p className="description">
-          Profesional con experiencia en educación, gestión de proyectos y desarrollo web. Apasionado por la robótica y las tendencias tecnológicas.
+          Profesional con experiencia en educación, gestión de proyectos, desarrollo web, reparación de equipos informáticos, redes y servidores. Apasionado por la robótica y las tendencias tecnológicas.
         </p>
         <div className="contact-info">
           <a href="mailto:damianpabloroldan@gmail.com">damianpabloroldan@gmail.com</a> |
