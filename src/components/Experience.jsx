@@ -45,8 +45,20 @@ const Experience = () => {
           "Asignación de tareas al personal del área de sistemas.",
         ],
       },
+      {
+        company: "Servicios Informáticos Independientes",
+        period: "2013-presente",
+        tasks: [
+          "Reparación de equipos informáticos.",
+          "Instalación y configuración de redes.",
+          "Mantenimiento y administración de servidores de datos.",
+          "Instalación y actualización de software.",
+          "Mantenimiento preventivo y correctivo de sistemas informáticos.",
+          "Asesoría en infraestructura tecnológica.",
+        ],
+      },
     ];
-  
+
     return (
       <section className="experience">
         <h2>EXPERIENCIA LABORAL</h2>
@@ -61,5 +73,5 @@ const Experience = () => {
       </section>
     );
   };
-  
+
   export default Experience;
